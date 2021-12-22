@@ -1,4 +1,4 @@
-package com.example.lesson3;
+package com.example.lesson4;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,7 +8,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import androidx.annotation.NonNull;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
