@@ -32,16 +32,7 @@
         app:layout_constraintLeft_toRightOf="@id/image_icon"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:id="@+id/txt_descriptiopn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="64dp"
-        android:text="Description"
-        android:textColor="@color/black"
-        android:textSize="24dp"
-        app:layout_constraintLeft_toLeftOf="@id/txt_title"
-        app:layout_constraintTop_toTopOf="parent" />
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

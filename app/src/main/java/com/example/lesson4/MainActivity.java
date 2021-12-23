@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
             R.drawable.python,
             R.drawable.php,
-            R.drawable.javascript,
-            R.drawable.kotlin};
+            R.drawable.kotlin,
+            R.drawable.java};
 
 
     @Override
