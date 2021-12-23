@@ -13,15 +13,10 @@ public class MainActivity extends AppCompatActivity {
 
     String s1[], s2[];
     int images[] = {  R.drawable.java,
+
             R.drawable.python,
             R.drawable.php,
-            R.drawable.c_plus_plus,
             R.drawable.javascript,
-            R.drawable.dart,
-            R.drawable.sql,
-            R.drawable.ccc,
-            R.drawable.ruby,
-            R.drawable.swift,
             R.drawable.kotlin};
 
 
